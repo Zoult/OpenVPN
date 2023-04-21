@@ -16,7 +16,7 @@ For example, if you used **[FOVPN] Germany** and opened the .ovpn file, the user
 
 > ### Understood, but what do those "FOVPN", "FVPN4Y" and "IPSPEED" mean?
 
-Nothing special, just the abbreviations of the sites. **[Free OpenVPN](https://www.freeopenvpn.org/ "Free OpenVPN website")**, **[Free VPN 4 You](https://freevpn4you.net/ "Free VPN 4 You website")** and **[IPSpeed](https://ipspeed.info/ "IPSpeed website")** which are the sites i used to download all the .ovpn files in here, and i just put their abbreviation before the folders' name just to organize them, that's all. You can visit them by clicking the blue names above or with the .url(s) i put into the main folder.
+Nothing special, just the abbreviations of the sites. **[Free OpenVPN](https://www.freeopenvpn.org/ "Free OpenVPN website")**, **[Free VPN 4 You](https://freevpn4you.net/ "Free VPN 4 You website")**, **[IPSpeed](https://ipspeed.info/ "IPSpeed website")** and **[VPNBook](https://vpnbook.com "VPNBook website")** which are the sites i used to download all the .ovpn files in here, and i just put their abbreviation before the folders' name just to organize them, that's all. You can visit them by clicking the blue names above or with the .url(s) i put into the main folder.
 
 > ### Is it legal?
 
